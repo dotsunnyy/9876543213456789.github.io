@@ -1,6 +1,6 @@
 
 /* CSS */
-.button {
+button {
   padding: 0.6em 2em;
   border: none;
   outline: none;
@@ -15,7 +15,7 @@
   touch-action: manipulation;
 }
 
-.button:before {
+button:before {
   content: "";
   background: linear-gradient(
     45deg,
@@ -55,7 +55,7 @@
   }
 }
 
-.button:after {
+button:after {
   z-index: -1;
   content: "";
   position: absolute;
