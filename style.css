@@ -80,3 +80,8 @@ font-family: 'Nanum Gothic', sans-serif;
 color: 5px solid black;
 
 }
+
+a {
+color: white;
+text-size-adjust: 50px;
+}
