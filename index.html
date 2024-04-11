@@ -9,6 +9,17 @@
     <n rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="../phantom.ico">
+    <script>
+      var password = "sigma";
+      (function passcodeprotect() {
+         var passcode = prompt("enter password");
+         while (passcode !== password) {
+            alert("wrong lol");
+            return passcodeprotect();
+         }
+      }());
+      alert('Welcome To The TP..!');
+   </script>
 </head>
 <body>
     <a href="../mc.html">
