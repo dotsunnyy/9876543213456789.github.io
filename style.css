@@ -17,20 +17,7 @@ list-style-type: none;
 }
 
 .rainbow {
-  
-    /* Font options */
-   font-family: 'Pacifico', cursive;
-   text-shadow: 2px 2px 4px #000000;
-   font-size:40px;
-   
-    /* Chrome, Safari, Opera */
    -webkit-animation: rainbow 5s infinite; 
-   
-   /* Internet Explorer */
-   -ms-animation: rainbow 5s infinite;
-   
-   /* Standar Syntax */
-   animation: rainbow 5s infinite; 
  }
 
  @-webkit-keyframes rainbow{
