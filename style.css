@@ -21,7 +21,7 @@ list-style-type: none;
 div {
 background-color: black;
 width: 450px;
-height: fit-content;
+height: 100%;
 margin: auto;
 text-align: center;
 }
