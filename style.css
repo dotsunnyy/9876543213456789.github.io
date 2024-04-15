@@ -22,4 +22,6 @@ div {
 background-color: black;
 width: 450px;
 height: fit-content;
+margin-left: auto;
+margin-right: auto;
 }
