@@ -4,6 +4,8 @@ font-size: 50px;
 font-family: "Geo", monospace;
 font-weight: 400;
 font-style: normal;
+-webkit-text-stroke: 10px;
+-webkit-text-stroke-color: aliceblue;
 background-image: url("1027.gif");
 background-repeat: repeat;
 }
