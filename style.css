@@ -11,7 +11,7 @@ background-repeat: repeat;
 
 a {
 color: black;
--webkit-text-stroke: 10px;
+-webkit-text-stroke: 3px;
 -webkit-text-stroke-color: aliceblue;
 text-decoration: dotted;
 }
