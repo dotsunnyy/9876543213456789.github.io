@@ -1,6 +1,6 @@
 body {
 background-color: #111;
-font-size: 35px;
+font-size: 50px;
 font-family: "Geo", monospace;
 font-weight: 400;
 font-style: normal;
@@ -9,7 +9,7 @@ background-repeat: repeat;
 }
 
 a {
-color: white;
+color: black;
 
 }
 
@@ -18,11 +18,3 @@ text-align: center;
 list-style-type: none;
 }
 
-div {
-background-color: black;
-width: 500px;
-height: 100%;
-margin: auto;
-text-align: center;
-border-radius: 5px;
-}
