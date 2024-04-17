@@ -21,6 +21,7 @@ h2 {
     -webkit-text-stroke: 3px;
     -webkit-text-stroke-color: aliceblue;
     text-decoration: dotted;
+    text-align: center;
     }
 
 li {
