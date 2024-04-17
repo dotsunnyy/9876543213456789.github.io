@@ -16,6 +16,13 @@ color: black;
 text-decoration: dotted;
 }
 
+h2 {
+    color: black;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: aliceblue;
+    text-decoration: dotted;
+    }
+
 li {
 text-align: center;
 list-style-type: none;
