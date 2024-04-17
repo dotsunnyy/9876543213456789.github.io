@@ -21,3 +21,7 @@ text-align: center;
 list-style-type: none;
 }
 
+.flash {
+-webkit-text-stroke-color: red;
+
+}
