@@ -1,3 +1,0 @@
-/root/StuntsMultiplayer/desmume-wasm/desmume/wasm-port/CMakeFiles/rebuild_cache.dir
-/root/StuntsMultiplayer/desmume-wasm/desmume/wasm-port/CMakeFiles/nds.dir
-/root/StuntsMultiplayer/desmume-wasm/desmume/wasm-port/CMakeFiles/edit_cache.dir
