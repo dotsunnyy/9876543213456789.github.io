@@ -1034,9 +1034,9 @@
 
 
 
-var password = "Morgan garnet";
+var password = "smoke signals";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: cooper franks middle names lowercase)");
+   var passcode = prompt("enter the password (hint: the first song on "stranger in the alps" by phoebe bridgers.)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
