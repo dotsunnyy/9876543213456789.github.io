@@ -989,9 +989,9 @@
 
 
 
-var password = "stranger in the alps";
+var password = "cat";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: phoebe bridgers first album title)");
+   var passcode = prompt("enter the password (hint: animal)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
