@@ -989,54 +989,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var password = "smoke signals";
+var password = "stranger in the alps";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: the first song on "stranger in the alps" by phoebe bridgers.)");
+   var passcode = prompt("enter the password (hint: phoebe bridgers first album title)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
