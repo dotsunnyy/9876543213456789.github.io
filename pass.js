@@ -998,3 +998,5 @@ var password = "cat";
    }
 }());
 alert('good job');
+
+alert("changelog:\n6/3\nadded two new games.\n"n64 emulator (redirect)" and "monkey mart"");
