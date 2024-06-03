@@ -997,4 +997,4 @@ var password = "cat";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog:\n6/3\nadded two new games.\n"n64 emulator (redirect)" and "monkey mart"');
+alert('good job\n\nchangelog 6/3:\nadded two new games.\n"n64 emulator (redirect)" and "monkey mart"');
