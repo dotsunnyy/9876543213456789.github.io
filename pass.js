@@ -989,12 +989,12 @@
 
 
 
-var password = "cat";
+var password = "chlorophyll";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: animal)");
+   var passcode = prompt("enter the password (hint: green pigment in plant)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/4:\nadded game request form."');
+alert('good job\n\nchangelog 6/5:\nadded 1 new game.\n"basketball random""');
