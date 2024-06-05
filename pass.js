@@ -997,4 +997,4 @@ var password = "fortnite";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/5:\nadded 1 new game.\n"basketball random""');
+alert('good job\n\nchangelog 6/5:\nadded 1 new game.\n"basketball random"');
