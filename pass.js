@@ -989,12 +989,12 @@
 
 
 
-var password = "owen r";
+var password = "dr pepper";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: person who ripped out my 6 key)");
+   var passcode = prompt("enter the password (hint: drink)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/5:\nadded 3 new games.\n"basketball random", "bubble tanks 2", "fruit ninja"');
+alert('good job\n\nchangelog 6/5:\nadded 4 new games.\n"basketball random", "bubble tanks 2", "fruit ninja", "moto x3m"');
