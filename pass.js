@@ -997,4 +997,4 @@ var password = "water";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/5:\nadded 4 new games.\n"basketball random", "bubble tanks 2", "fruit ninja", "moto x3m"');
+alert('good job\n\nchangelog 6/5:\nadded 5 new games.\n"basketball random", "bubble tanks 2", "fruit ninja", "moto x3m", "ovo"');
