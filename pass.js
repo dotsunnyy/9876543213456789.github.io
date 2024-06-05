@@ -989,9 +989,9 @@
 
 
 
-var password = "chlorophyll";
+var password = "fortnite";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: green pigment in plant)");
+   var passcode = prompt("enter the password (hint: video game)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
