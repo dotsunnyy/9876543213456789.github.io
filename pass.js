@@ -989,7 +989,7 @@
 
 
 
-var password = "dr pepper";
+var password = "water";
 (function passcodeprotect() {
    var passcode = prompt("enter the password (hint: drink)");
    while (passcode !== password) {
