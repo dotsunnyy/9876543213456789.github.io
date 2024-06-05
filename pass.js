@@ -989,9 +989,9 @@
 
 
 
-var password = "fortnite";
+var password = "owen r";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: video game)");
+   var passcode = prompt("enter the password (hint: person who ripped out my 6 key)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
