@@ -997,4 +997,4 @@ var password = "water";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/6:\nadded 1 new game.\n"paper.io"');
+alert('good job\n\nchangelog 6/10:\nadded 1 new game.\n"smash ur computer"');
