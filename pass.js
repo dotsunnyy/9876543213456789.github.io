@@ -997,4 +997,4 @@ var password = "water";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/10:\nadded 2 new games.\n"smash ur computer", "papas freezeria"');
+alert('good job\n\nchangelog 6/10:\nadded 3 new games.\n"smash ur computer", "papas freezeria", "papas bakeria"');
