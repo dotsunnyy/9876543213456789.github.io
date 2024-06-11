@@ -989,9 +989,9 @@
 
 
 
-var password = "Mr george";
+var password = "sunflower";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: one of the teachers)");
+   var passcode = prompt("enter the password (hint: a type of flower)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
