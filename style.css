@@ -34,14 +34,13 @@ list-style-type: none;
 
 }
 
-.ds {
-    -webkit-text-stroke-color: green;
-    
-    }
-
 .redirect {
   -webkit-text-stroke-color: blue;
     }
+
+    .redirect {
+        -webkit-text-stroke-color: green;
+          }
 
 hr {
 border-top: 10px dotted white
