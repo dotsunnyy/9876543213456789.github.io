@@ -989,9 +989,9 @@
 
 
 
-var password = "water";
+var password = "flash";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: drink)");
+   var passcode = prompt("enter the password");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
