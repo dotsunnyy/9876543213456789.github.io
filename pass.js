@@ -989,9 +989,9 @@
 
 
 
-var password = "flash";
+var password = "figure it out";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password");
+   var passcode = prompt("enter the password (hint: figure it out)");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
