@@ -989,7 +989,7 @@
 
 
 
-var password = "mr george";
+var password = "Mr george";
 (function passcodeprotect() {
    var passcode = prompt("enter the password (hint: one of the teachers)");
    while (passcode !== password) {
