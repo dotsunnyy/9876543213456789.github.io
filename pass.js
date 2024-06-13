@@ -997,4 +997,4 @@ var password = "sunflower";
       return passcodeprotect();
    }
 }());
-alert('good job\n\nchangelog 6/11:\nadded 1 new game.\n"papas hotdoggeria"');
+alert('good job');
