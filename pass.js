@@ -997,4 +997,4 @@ var password = "sunflower";
       return passcodeprotect();
    }
 }());
-alert('good job');
+alert('good job \n this wont be updated much due to chrombooks being taken away.');
