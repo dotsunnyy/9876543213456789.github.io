@@ -989,12 +989,12 @@
 
 
 
-var password = "sunflower";
+var password = " ";
 (function passcodeprotect() {
-   var passcode = prompt("enter the password (hint: a type of flower)");
+   var passcode = prompt("enter the password");
    while (passcode !== password) {
       alert("wrong");
       return passcodeprotect();
    }
 }());
-alert('good job \n this wont be updated much due to chrombooks being taken away.');
+alert('good job');
