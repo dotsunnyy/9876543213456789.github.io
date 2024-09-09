@@ -989,7 +989,7 @@
 
 
 
-var password = " ";
+var password = "duolingo";
 (function passcodeprotect() {
    var passcode = prompt("enter the password");
    while (passcode !== password) {
@@ -997,4 +997,4 @@ var password = " ";
       return passcodeprotect();
    }
 }());
-alert('good job');
+alert('good job\nfyi i dont think this link will ast long but lets see');
