@@ -997,4 +997,4 @@ var password = "duolingo";
       return passcodeprotect();
    }
 }());
-alert('good job\nfyi i dont think this link will ast long but lets see');
+alert('good job\nfyi i dont think this link will last long but lets see \nhad to delete some games due to them not working anymore');
